@@ -1,7 +1,7 @@
 let etapas = [
     {
         titulo: 'ministro',
-        numero: 5,
+        numeros: 5,
         candidatos: [
             {
                 numero: 35221,
@@ -38,10 +38,7 @@ let etapas = [
         ]
     },
     {
-        titulo: 'vice - ministro',
-        numero: 2,
-        candidatos: [
-            {
+        
                 numero: 98,
                 nome: 'pistola',
                 partido: 'oau',
@@ -50,7 +47,7 @@ let etapas = [
                     {url:'img3.png' , legenda: 'vice'},
                     {url:'img3.png' , legenda: 'vice', small: true}
                 ]
-            }
-        ]
-    },
-]
+    }
+        
+    
+];
