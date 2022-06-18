@@ -20,9 +20,37 @@ let etapas = [
                 ]
             },
         ]
-    }
-
-
-
-
+    },
+    {
+        titulo: 'vice - ministro',
+        numero: 2,
+        candidatos: [
+            {
+                numero: 99,
+                nome: 'biclas',
+                partido: 'oiu',
+                vice: 'cic',
+                fotos:[
+                    {url:'img2.png' , legenda: 'vice'},
+                    {url:'img2.png' , legenda: 'vice', small: true}
+                ]
+            }
+        ]
+    },
+    {
+        titulo: 'vice - ministro',
+        numero: 2,
+        candidatos: [
+            {
+                numero: 98,
+                nome: 'pistola',
+                partido: 'oau',
+                vice: 'cij',
+                fotos:[
+                    {url:'img3.png' , legenda: 'vice'},
+                    {url:'img3.png' , legenda: 'vice', small: true}
+                ]
+            }
+        ]
+    },
 ]
